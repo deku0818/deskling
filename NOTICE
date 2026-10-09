@@ -1,0 +1,26 @@
+Deskling third-party materials
+
+The root MIT License applies to Deskling's own source code and documentation.
+Third-party materials retain their original rights and licenses.
+
+Clawd artwork
+  The originals in assets/clawd-official and the derived artwork in
+  assets/pets/clawd originate from Anthropic's claude.ai image assets.
+  Source URLs and hashes are recorded in assets/clawd-official/manifest.json
+  and assets/pets/clawd/source.json. This project does not claim ownership of
+  Clawd, grant an MIT license to that artwork, or imply Anthropic endorsement.
+  No separate artwork redistribution license is recorded in the source
+  manifest; users should obtain the relevant permissions for their use.
+
+Fonts
+  Fusion Pixel Font: https://github.com/TakWolf/fusion-pixel-font
+  The web fonts and generated firmware fonts retain their upstream licenses.
+  See assets/fonts/OFL.txt and assets/fonts/LICENSES for the bundled license
+  texts, and assets/fonts/source.json for the pinned upstream release.
+  The Noto Sans CJK fallback glyphs retain the SIL Open Font License;
+  see firmware/main/fonts/Noto-OFL.txt and firmware/main/fonts/README.md.
+
+Dependencies
+  npm dependencies and ESP-IDF managed components retain their respective
+  upstream licenses. They are installed during builds using the committed
+  dependency manifests and lockfiles.

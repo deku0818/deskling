@@ -1,0 +1,6 @@
+{
+  "source": "assets/clawd-official (claude.ai official Clawd artwork)",
+  "generator": "scripts/build-pet-clawd.py",
+  "scaling": "nearest neighbour to 480px wide, visible window [20, 90, 460, 323]",
+  "sheetSha256": "d2035d0e336b3283dd27895f42be8f52fc452e713ff441a34185b209fd520bd5"
+}

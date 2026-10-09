@@ -1,0 +1,5 @@
+* text=auto
+# Keep generated font data and upstream license text unchanged.
+firmware/main/fonts/deskling_pixel_*.c linguist-generated -whitespace
+assets/fonts/LICENSES/** -whitespace
+assets/pets/*/pet.js linguist-generated

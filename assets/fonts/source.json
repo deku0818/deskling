@@ -1,0 +1,9 @@
+{
+  "family": "Fusion Pixel Font",
+  "version": "2026.09.25",
+  "source": "https://github.com/TakWolf/fusion-pixel-font/releases/download/2026.09.25/fusion-pixel-font-12px-monospaced-otf.woff2-v2026.09.25.zip",
+  "repository": "https://github.com/TakWolf/fusion-pixel-font",
+  "file": "deck-pixel.woff2",
+  "subset": "Current display UI text plus printable ASCII. Rebuild after adding new characters.",
+  "bytes": 12624
+}

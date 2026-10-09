@@ -1,0 +1,7 @@
+{
+  "family": "Fusion Pixel Font",
+  "version": "2026.09.25",
+  "source": "Same pinned archive as firmware/tools/build_pixel_fonts.py",
+  "license": "assets/fonts/OFL.txt",
+  "subset": "Setup pages, firmware setup messages and printable ASCII"
+}
